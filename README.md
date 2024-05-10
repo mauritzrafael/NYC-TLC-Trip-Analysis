@@ -10,5 +10,3 @@ Purpose for this data analysis is to answer the following questions:
 3. How distributed drivers' services across New York City?
 
 Some interesting insights are generated from this analysis with operation-wise strategies and recommended actions to develop drivers better.
-
-Note: The cleaned dataset are surprisingly larger than its original size data. Here is the link to the dataset: https://tinyurl.com/3xf4x26h
